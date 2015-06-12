@@ -3,7 +3,7 @@ InDesign script that takes markdown and an InDesign template and spits out a for
 
 ## Installation
 
-On Max OS X, place entire `ohc-handbook-md2id` in `/Users/[USERNAME]/Library/Preferences/Adobe InDesign/Version [NUM]/en_US/Scripts`.
+On Max OS X, place entire `ohc-handbook-md2id` folder in `/Users/[USERNAME]/Library/Preferences/Adobe InDesign/Version [NUM]/en_US/Scripts`.
 
 ## Further Reading
 
